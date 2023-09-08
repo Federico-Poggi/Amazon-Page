@@ -1,0 +1,34 @@
+/* Your styles here */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#main{
+    margin: auto 30px ;
+    
+}
+
+header{
+    width: 100%;
+    background-color: #222F3F;
+    margin: 0;
+}
+header img{
+    height: 3em;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#navbar li{
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 0.8em;
+}
+
+#navbar{
+    background-color: #364759;
+    padding: 10px;
+    margin: 0 auto;
+}
